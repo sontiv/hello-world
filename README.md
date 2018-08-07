@@ -12,6 +12,7 @@ br1
 >>>>>>> Update README.md
 =======
 
+<<<<<<< HEAD
 try pullrequest： 
 merge rebase from br1
 >>>>>>> Update README.md
@@ -19,4 +20,8 @@ merge rebase from br1
 
 try pullrequest merge:
 br0
+>>>>>>> Update README.md
+=======
+br1
+
 >>>>>>> Update README.md
